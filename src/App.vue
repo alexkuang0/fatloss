@@ -109,6 +109,7 @@
   </div>
   <hr>
   <p>Made with ❤️ by <a target="_blank" href="https://space.bilibili.com/24577998">高等小熊猫</a></p>
+  <p><a href="https://webify.cloudbase.net/" target="_blank">CloudBase Webify</a> 提供网站托管服务</p>
 </template>
 
 <script>
